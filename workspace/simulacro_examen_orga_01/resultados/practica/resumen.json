@@ -1,0 +1,25 @@
+{
+    "modo":  "Practica",
+    "puntos":  0,
+    "maximo":  8,
+    "aprobadas":  0,
+    "total":  2,
+    "pruebas":  [
+                    {
+                        "id":  "e2_basico",
+                        "ejercicio":  2,
+                        "nivel":  "practica",
+                        "ok":  false,
+                        "instrucciones":  949,
+                        "motivo":  "resultado o convencion de registros incorrectos"
+                    },
+                    {
+                        "id":  "e2_cero",
+                        "ejercicio":  2,
+                        "nivel":  "practica",
+                        "ok":  false,
+                        "instrucciones":  611,
+                        "motivo":  "resultado o convencion de registros incorrectos"
+                    }
+                ]
+}

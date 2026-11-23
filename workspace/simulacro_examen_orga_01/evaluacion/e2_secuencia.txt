@@ -1,0 +1,7 @@
+word_info(0x00000001) = 1 v1=1 [OK]
+word_info(0xFFFFFFFF) = 32 v1=32 [OK]
+word_info(0x00000000) = 0 v1=0 [OK]
+word_info(0x00010000) = 17 v1=1 [OK]
+word_info(0x12345678) = 29 v1=13 [OK]
+word_info(0x00000001) = 1 v1=1 [OK]
+Convencion de registros: OK

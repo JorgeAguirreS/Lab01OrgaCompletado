@@ -1,0 +1,8 @@
+{
+  "plugin/ejercicios.cpp": "2b0c37142374d988e5f9f6797c0a291fb863b25f4f60df315358dda9c12df748",
+  "asm/ej02_word_info.asm": "b853b78e526415b7c69500b2b6a5b0f91054b303f77cf38ed10a0f9e21e3750d",
+  "asm/ej03_hamming.asm": "fa77be72c637050d0cfdf36f24696285a2b3abaed282305bcecb7d9a490cbe05",
+  "asm/ej04_decimal_stats.asm": "1c463666b019536df16d0285136f8747f67c4e17e7b559b971a3bb913964232e",
+  "asm/ej06_power.asm": "2aa89265e42205b171f635a4e3edf74a8d929b5b276dc01f37f271dc26145ef2",
+  "asm/ej07_ways.asm": "fe5c8e031f8c45aaa98a86803fb9048fe2f342bdd61244fb06edf23b9f1116a2"
+}

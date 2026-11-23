@@ -1,0 +1,3 @@
+Palabras procesadas: 64
+Bits en 1 (total): 1061
+XOR de las palabras: 0x35F8F300

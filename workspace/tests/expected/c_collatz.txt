@@ -1,0 +1,9 @@
+collatz_len(1) = 0 [OK]
+collatz_len(2) = 1 [OK]
+collatz_len(3) = 7 [OK]
+collatz_len(7) = 16 [OK]
+collatz_len(27) = 111 [OK]
+collatz_len(97) = 118 [OK]
+collatz_len(871) = 178 [OK]
+Convencion de registros: OK
+Mayor cadena con n < 1000: n = 871  pasos = 178

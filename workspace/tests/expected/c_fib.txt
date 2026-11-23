@@ -1,0 +1,7 @@
+fib(0) = 0 [OK]
+fib(1) = 1 [OK]
+fib(2) = 1 [OK]
+fib(10) = 55 [OK]
+fib(20) = 6765 [OK]
+fib(25) = 75025 [OK]
+Convencion de registros: OK

@@ -1,0 +1,4 @@
+word_info(0xFFFFFFFF) = 32 v1=32 [OK]
+word_info(0xAAAAAAAA) = 32 v1=16 [OK]
+word_info(0x7FFFFFFF) = 31 v1=31 [OK]
+Convencion de registros: OK

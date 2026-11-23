@@ -1,0 +1,4 @@
+ways(8) = 13 [OK]
+ways(8) = 13 [OK]
+memo_get(8) = 13 v1=1 [OK]
+Convencion de registros: OK

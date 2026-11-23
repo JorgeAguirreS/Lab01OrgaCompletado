@@ -1,0 +1,4 @@
+power_u32(0x00000007, 0) = 0x00000001 [OK]
+power_u32(0x00000000, 3) = 0x00000000 [OK]
+power_u32(0x00000000, 0) = 0x00000001 [OK]
+Convencion de registros: OK

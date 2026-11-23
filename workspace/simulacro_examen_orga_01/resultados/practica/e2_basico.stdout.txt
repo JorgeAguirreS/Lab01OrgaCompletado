@@ -1,0 +1,5 @@
+word_info(0x00000001) = 0 v1=0 [FALLA: esperado 1 v1=1]
+word_info(0x0000000D) = 0 v1=0 [FALLA: esperado 4 v1=3]
+word_info(0x000000FF) = 0 v1=0 [FALLA: esperado 8 v1=8]
+Convencion de registros: OK
+Number of instructions: 949

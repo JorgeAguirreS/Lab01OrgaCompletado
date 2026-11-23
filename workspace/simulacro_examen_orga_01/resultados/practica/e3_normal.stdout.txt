@@ -1,0 +1,5 @@
+hamming(0x00000000, 0x0000000F) = 0 [FALLA: esperado 4]
+hamming(0x0000000A, 0x00000005) = 0 [FALLA: esperado 4]
+hamming(0x0000000C, 0x0000000A) = 0 [FALLA: esperado 2]
+Convencion de registros: OK
+Number of instructions: 1205

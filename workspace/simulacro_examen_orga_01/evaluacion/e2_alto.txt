@@ -1,0 +1,3 @@
+word_info(0x80000000) = 32 v1=1 [OK]
+word_info(0x80000001) = 32 v1=2 [OK]
+Convencion de registros: OK

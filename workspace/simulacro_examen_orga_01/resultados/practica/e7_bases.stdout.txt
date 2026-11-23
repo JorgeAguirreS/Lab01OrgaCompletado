@@ -1,0 +1,8 @@
+ways(0) = 0 [FALLA: esperado 1]
+ways(1) = 0 [FALLA: esperado 1]
+ways(2) = 0 [FALLA: esperado 1]
+ways(3) = 0 [FALLA: esperado 2]
+ways(4) = 0 [FALLA: esperado 3]
+ways(6) = 0 [FALLA: esperado 6]
+Convencion de registros: OK
+Number of instructions: 1052

@@ -1,0 +1,4 @@
+device_take(9) = 0 v1=0 [OK]
+memo_size(0) = 1 [OK]
+memo_get(2) = 5 v1=1 [OK]
+Convencion de registros: OK

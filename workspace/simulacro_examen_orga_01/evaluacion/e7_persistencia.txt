@@ -1,0 +1,9 @@
+ways(12) = 60 [OK]
+ways(3) = 2 [OK]
+ways(0) = 1 [OK]
+ways(12) = 60 [OK]
+memo_size(0) = 10 [OK]
+memo_get(12) = 60 v1=1 [OK]
+memo_get(11) = 41 v1=1 [OK]
+memo_get(0) = 0 v1=0 [OK]
+Convencion de registros: OK

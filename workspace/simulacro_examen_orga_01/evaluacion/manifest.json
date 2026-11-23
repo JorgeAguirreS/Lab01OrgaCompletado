@@ -1,0 +1,212 @@
+[
+  {
+    "id": "e1_ancho",
+    "ejercicio": 1,
+    "nombre": "Ancho completo",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e1_ancho.asm",
+    "esperado": "evaluacion/e1_ancho.txt",
+    "alumno": "",
+    "max_inst": 0
+  },
+  {
+    "id": "e1_saturacion",
+    "ejercicio": 1,
+    "nombre": "Cantidad mayor al ancho",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e1_saturacion.asm",
+    "esperado": "evaluacion/e1_saturacion.txt",
+    "alumno": "",
+    "max_inst": 0
+  },
+  {
+    "id": "e1_fronteras",
+    "ejercicio": 1,
+    "nombre": "Fronteras de palabra",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e1_fronteras.asm",
+    "esperado": "evaluacion/e1_fronteras.txt",
+    "alumno": "",
+    "max_inst": 0
+  },
+  {
+    "id": "e2_alto",
+    "ejercicio": 2,
+    "nombre": "Bit de signo",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e2_alto.asm",
+    "esperado": "evaluacion/e2_alto.txt",
+    "alumno": "asm/ej02_word_info.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e2_densos",
+    "ejercicio": 2,
+    "nombre": "Palabras densas",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e2_densos.asm",
+    "esperado": "evaluacion/e2_densos.txt",
+    "alumno": "asm/ej02_word_info.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e2_secuencia",
+    "ejercicio": 2,
+    "nombre": "Llamadas consecutivas",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e2_secuencia.asm",
+    "esperado": "evaluacion/e2_secuencia.txt",
+    "alumno": "asm/ej02_word_info.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e3_extremos",
+    "ejercicio": 3,
+    "nombre": "Palabras opuestas",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e3_extremos.asm",
+    "esperado": "evaluacion/e3_extremos.txt",
+    "alumno": "asm/ej03_hamming.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e3_mezcla",
+    "ejercicio": 3,
+    "nombre": "Patrones mixtos",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e3_mezcla.asm",
+    "esperado": "evaluacion/e3_mezcla.txt",
+    "alumno": "asm/ej03_hamming.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e3_contrato",
+    "ejercicio": 3,
+    "nombre": "Llamadas y servicio obligatorio",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e3_contrato.asm",
+    "esperado": "evaluacion/e3_contrato.txt",
+    "alumno": "asm/ej03_hamming.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e4_maximo",
+    "ejercicio": 4,
+    "nombre": "Limite con signo",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e4_maximo.asm",
+    "esperado": "evaluacion/e4_maximo.txt",
+    "alumno": "asm/ej04_decimal_stats.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e4_posiciones",
+    "ejercicio": 4,
+    "nombre": "Maximo en distintas posiciones",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e4_posiciones.asm",
+    "esperado": "evaluacion/e4_posiciones.txt",
+    "alumno": "asm/ej04_decimal_stats.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e4_consecutivos",
+    "ejercicio": 4,
+    "nombre": "Reinicio del estado",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e4_consecutivos.asm",
+    "esperado": "evaluacion/e4_consecutivos.txt",
+    "alumno": "asm/ej04_decimal_stats.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e5_valores",
+    "ejercicio": 5,
+    "nombre": "Cero, negativos y extremos",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e5_valores.asm",
+    "esperado": "evaluacion/e5_valores.txt",
+    "alumno": "",
+    "max_inst": 0
+  },
+  {
+    "id": "e5_reemplazo",
+    "ejercicio": 5,
+    "nombre": "Reemplazo y retiro consecutivo",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e5_reemplazo.asm",
+    "esperado": "evaluacion/e5_reemplazo.txt",
+    "alumno": "",
+    "max_inst": 0
+  },
+  {
+    "id": "e5_aislamiento",
+    "ejercicio": 5,
+    "nombre": "Retiro selectivo",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e5_aislamiento.asm",
+    "esperado": "evaluacion/e5_aislamiento.txt",
+    "alumno": "",
+    "max_inst": 0
+  },
+  {
+    "id": "e6_modulo",
+    "ejercicio": 6,
+    "nombre": "Resultado modulo 2^32",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e6_modulo.asm",
+    "esperado": "evaluacion/e6_modulo.txt",
+    "alumno": "asm/ej06_power.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e6_profundo",
+    "ejercicio": 6,
+    "nombre": "Marcos recursivos",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e6_profundo.asm",
+    "esperado": "evaluacion/e6_profundo.txt",
+    "alumno": "asm/ej06_power.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e6_consecutivos",
+    "ejercicio": 6,
+    "nombre": "Restauracion entre llamadas",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e6_consecutivos.asm",
+    "esperado": "evaluacion/e6_consecutivos.txt",
+    "alumno": "asm/ej06_power.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e7_grande",
+    "ejercicio": 7,
+    "nombre": "Recurrencia con memoria a escala",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e7_grande.asm",
+    "esperado": "evaluacion/e7_grande.txt",
+    "alumno": "asm/ej07_ways.asm",
+    "max_inst": 50000
+  },
+  {
+    "id": "e7_precarga",
+    "ejercicio": 7,
+    "nombre": "Consultas de entradas ya existentes",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e7_precarga.asm",
+    "esperado": "evaluacion/e7_precarga.txt",
+    "alumno": "asm/ej07_ways.asm",
+    "max_inst": 10000
+  },
+  {
+    "id": "e7_persistencia",
+    "ejercicio": 7,
+    "nombre": "Tabla y llamadas consecutivas",
+    "nivel": "adicional",
+    "arnes": "evaluacion/e7_persistencia.asm",
+    "esperado": "evaluacion/e7_persistencia.txt",
+    "alumno": "asm/ej07_ways.asm",
+    "max_inst": 20000
+  }
+]

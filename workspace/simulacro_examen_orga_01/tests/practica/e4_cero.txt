@@ -1,0 +1,4 @@
+decimal_stats(0) = 1 v1=0 [OK]
+decimal_stats(100) = 3 v1=1 [OK]
+decimal_stats(1010) = 4 v1=1 [OK]
+Convencion de registros: OK

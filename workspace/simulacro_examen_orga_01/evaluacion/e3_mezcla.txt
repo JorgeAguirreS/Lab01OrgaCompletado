@@ -1,0 +1,4 @@
+hamming(0x12345678, 0xFEDCBA98) = 17 [OK]
+hamming(0x80000001, 0x7FFFFFFF) = 31 [OK]
+hamming(0x00000001, 0xFFFFFFFE) = 32 [OK]
+Convencion de registros: OK

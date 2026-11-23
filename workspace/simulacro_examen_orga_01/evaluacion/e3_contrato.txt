@@ -1,0 +1,6 @@
+hamming(0xFFFFFFFF, 0x00000001) = 31 [OK]
+hamming(0x00000010, 0x00000002) = 2 [OK]
+hamming(0x00000001, 0x00000001) = 0 [OK]
+hamming(0x00000000, 0x00000001) = 1 [OK]
+sys_count(20) = 4 [OK]
+Convencion de registros: OK

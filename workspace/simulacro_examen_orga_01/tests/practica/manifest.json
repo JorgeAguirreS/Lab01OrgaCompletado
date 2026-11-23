@@ -1,0 +1,142 @@
+[
+  {
+    "id": "e1_campos",
+    "ejercicio": 1,
+    "nombre": "Campos comunes",
+    "nivel": "practica",
+    "arnes": "tests/practica/e1_campos.asm",
+    "esperado": "tests/practica/e1_campos.txt",
+    "alumno": "",
+    "max_inst": 0
+  },
+  {
+    "id": "e1_cero",
+    "ejercicio": 1,
+    "nombre": "Cantidad cero",
+    "nivel": "practica",
+    "arnes": "tests/practica/e1_cero.asm",
+    "esperado": "tests/practica/e1_cero.txt",
+    "alumno": "",
+    "max_inst": 0
+  },
+  {
+    "id": "e2_basico",
+    "ejercicio": 2,
+    "nombre": "Palabras comunes",
+    "nivel": "practica",
+    "arnes": "tests/practica/e2_basico.asm",
+    "esperado": "tests/practica/e2_basico.txt",
+    "alumno": "asm/ej02_word_info.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e2_cero",
+    "ejercicio": 2,
+    "nombre": "Palabra cero",
+    "nivel": "practica",
+    "arnes": "tests/practica/e2_cero.asm",
+    "esperado": "tests/practica/e2_cero.txt",
+    "alumno": "asm/ej02_word_info.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e3_normal",
+    "ejercicio": 3,
+    "nombre": "Distancias comunes",
+    "nivel": "practica",
+    "arnes": "tests/practica/e3_normal.asm",
+    "esperado": "tests/practica/e3_normal.txt",
+    "alumno": "asm/ej03_hamming.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e3_iguales",
+    "ejercicio": 3,
+    "nombre": "Iguales y cambio de un bit",
+    "nivel": "practica",
+    "arnes": "tests/practica/e3_iguales.asm",
+    "esperado": "tests/practica/e3_iguales.txt",
+    "alumno": "asm/ej03_hamming.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e4_normal",
+    "ejercicio": 4,
+    "nombre": "Numeros decimales",
+    "nivel": "practica",
+    "arnes": "tests/practica/e4_normal.asm",
+    "esperado": "tests/practica/e4_normal.txt",
+    "alumno": "asm/ej04_decimal_stats.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e4_cero",
+    "ejercicio": 4,
+    "nombre": "Cero y ceros internos",
+    "nivel": "practica",
+    "arnes": "tests/practica/e4_cero.asm",
+    "esperado": "tests/practica/e4_cero.txt",
+    "alumno": "asm/ej04_decimal_stats.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e5_retiro",
+    "ejercicio": 5,
+    "nombre": "Retiro de una entrada",
+    "nivel": "practica",
+    "arnes": "tests/practica/e5_retiro.asm",
+    "esperado": "tests/practica/e5_retiro.txt",
+    "alumno": "",
+    "max_inst": 0
+  },
+  {
+    "id": "e5_ausente",
+    "ejercicio": 5,
+    "nombre": "Clave ausente y tabla intacta",
+    "nivel": "practica",
+    "arnes": "tests/practica/e5_ausente.asm",
+    "esperado": "tests/practica/e5_ausente.txt",
+    "alumno": "",
+    "max_inst": 0
+  },
+  {
+    "id": "e6_normal",
+    "ejercicio": 6,
+    "nombre": "Potencias pequenas",
+    "nivel": "practica",
+    "arnes": "tests/practica/e6_normal.asm",
+    "esperado": "tests/practica/e6_normal.txt",
+    "alumno": "asm/ej06_power.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e6_base",
+    "ejercicio": 6,
+    "nombre": "Exponente cero y base cero",
+    "nivel": "practica",
+    "arnes": "tests/practica/e6_base.asm",
+    "esperado": "tests/practica/e6_base.txt",
+    "alumno": "asm/ej06_power.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e7_bases",
+    "ejercicio": 7,
+    "nombre": "Casos iniciales y recurrencia",
+    "nivel": "practica",
+    "arnes": "tests/practica/e7_bases.asm",
+    "esperado": "tests/practica/e7_bases.txt",
+    "alumno": "asm/ej07_ways.asm",
+    "max_inst": 0
+  },
+  {
+    "id": "e7_cache",
+    "ejercicio": 7,
+    "nombre": "Resultado guardado y reutilizado",
+    "nivel": "practica",
+    "arnes": "tests/practica/e7_cache.asm",
+    "esperado": "tests/practica/e7_cache.txt",
+    "alumno": "asm/ej07_ways.asm",
+    "max_inst": 0
+  }
+]

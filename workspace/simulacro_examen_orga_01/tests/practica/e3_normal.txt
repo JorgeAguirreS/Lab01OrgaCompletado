@@ -1,0 +1,4 @@
+hamming(0x00000000, 0x0000000F) = 4 [OK]
+hamming(0x0000000A, 0x00000005) = 4 [OK]
+hamming(0x0000000C, 0x0000000A) = 2 [OK]
+Convencion de registros: OK

@@ -1,0 +1,99 @@
+{
+  "fecha": "2026-11-20",
+  "ejecuciones_reales": [
+    {
+      "prueba": "directorio_externo",
+      "aprobadas": 2,
+      "total": 2,
+      "puntos": 8.0,
+      "maximo": 8.0
+    },
+    {
+      "prueba": "error_asm_aislado",
+      "aprobadas": 12,
+      "total": 14,
+      "puntos": 85.0,
+      "maximo": 100.0
+    },
+    {
+      "prueba": "error_cpp_aislado",
+      "aprobadas": 10,
+      "total": 14,
+      "puntos": 75.0,
+      "maximo": 100.0
+    },
+    {
+      "prueba": "inicial_practica",
+      "aprobadas": 0,
+      "total": 14,
+      "puntos": 0.0,
+      "maximo": 100.0
+    },
+    {
+      "prueba": "mutacion_caso_base",
+      "aprobadas": 0,
+      "total": 2,
+      "puntos": 0.0,
+      "maximo": 15.0
+    },
+    {
+      "prueba": "mutacion_conteo_decimal",
+      "aprobadas": 0,
+      "total": 2,
+      "puntos": 0.0,
+      "maximo": 15.0
+    },
+    {
+      "prueba": "mutacion_limite_final",
+      "aprobadas": 3,
+      "total": 5,
+      "puntos": 6.0,
+      "maximo": 10.0
+    },
+    {
+      "prueba": "mutacion_limite_visible",
+      "aprobadas": 2,
+      "total": 2,
+      "puntos": 10.0,
+      "maximo": 10.0
+    },
+    {
+      "prueba": "mutacion_registro_preservado",
+      "aprobadas": 0,
+      "total": 2,
+      "puntos": 0.0,
+      "maximo": 12.0
+    },
+    {
+      "prueba": "mutacion_segundo_resultado",
+      "aprobadas": 0,
+      "total": 2,
+      "puntos": 0.0,
+      "maximo": 8.0
+    },
+    {
+      "prueba": "mutacion_sin_memoizacion",
+      "aprobadas": 0,
+      "total": 5,
+      "puntos": 0.0,
+      "maximo": 25.0
+    },
+    {
+      "prueba": "mutacion_sin_retiro",
+      "aprobadas": 1,
+      "total": 5,
+      "puntos": 3.0,
+      "maximo": 15.0
+    },
+    {
+      "prueba": "referencia_completa",
+      "aprobadas": 35,
+      "total": 35,
+      "puntos": 100.0,
+      "maximo": 100.0
+    }
+  ],
+  "restauracion_y_respaldo": "Verificados para los seis archivos de estudiante; comparacion de textos normaliza CRLF/LF.",
+  "archivos_originales_intactos": 41,
+  "nota": "Referencias temporales usadas solamente durante la preparacion. Los archivos entregados son las plantillas pendientes."
+}

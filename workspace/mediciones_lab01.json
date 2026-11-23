@@ -1,0 +1,214 @@
+{
+  "fecha": "2026-11-14",
+  "b_one": [
+    {
+      "x": "0x00000000",
+      "sw": {
+        "instrucciones": 32,
+        "salida": "popcount = 0\nNumber of instructions: 32\n",
+        "stderr": ""
+      },
+      "hw": {
+        "instrucciones": 32,
+        "salida": "popcount = 0\nNumber of instructions: 32\n",
+        "stderr": ""
+      },
+      "stub": {
+        "instrucciones": 30,
+        "salida": "popcount = 0\nNumber of instructions: 30\n",
+        "stderr": ""
+      },
+      "kernighan": {
+        "instrucciones": 32,
+        "salida": "popcount = 0\nNumber of instructions: 32\n",
+        "stderr": ""
+      }
+    },
+    {
+      "x": "0x00000001",
+      "sw": {
+        "instrucciones": 36,
+        "salida": "popcount = 1\nNumber of instructions: 36\n",
+        "stderr": ""
+      },
+      "hw": {
+        "instrucciones": 32,
+        "salida": "popcount = 1\nNumber of instructions: 32\n",
+        "stderr": ""
+      },
+      "stub": {
+        "instrucciones": 30,
+        "salida": "popcount = 0\nNumber of instructions: 30\n",
+        "stderr": ""
+      },
+      "kernighan": {
+        "instrucciones": 36,
+        "salida": "popcount = 1\nNumber of instructions: 36\n",
+        "stderr": ""
+      }
+    },
+    {
+      "x": "0x0000FFFF",
+      "sw": {
+        "instrucciones": 96,
+        "salida": "popcount = 16\nNumber of instructions: 96\n",
+        "stderr": ""
+      },
+      "hw": {
+        "instrucciones": 32,
+        "salida": "popcount = 16\nNumber of instructions: 32\n",
+        "stderr": ""
+      },
+      "stub": {
+        "instrucciones": 30,
+        "salida": "popcount = 0\nNumber of instructions: 30\n",
+        "stderr": ""
+      },
+      "kernighan": {
+        "instrucciones": 96,
+        "salida": "popcount = 16\nNumber of instructions: 96\n",
+        "stderr": ""
+      }
+    },
+    {
+      "x": "0x80000000",
+      "sw": {
+        "instrucciones": 160,
+        "salida": "popcount = 1\nNumber of instructions: 160\n",
+        "stderr": ""
+      },
+      "hw": {
+        "instrucciones": 32,
+        "salida": "popcount = 1\nNumber of instructions: 32\n",
+        "stderr": ""
+      },
+      "stub": {
+        "instrucciones": 30,
+        "salida": "popcount = 0\nNumber of instructions: 30\n",
+        "stderr": ""
+      },
+      "kernighan": {
+        "instrucciones": 36,
+        "salida": "popcount = 1\nNumber of instructions: 36\n",
+        "stderr": ""
+      }
+    },
+    {
+      "x": "0xFFFFFFFF",
+      "sw": {
+        "instrucciones": 160,
+        "salida": "popcount = 32\nNumber of instructions: 160\n",
+        "stderr": ""
+      },
+      "hw": {
+        "instrucciones": 32,
+        "salida": "popcount = 32\nNumber of instructions: 32\n",
+        "stderr": ""
+      },
+      "stub": {
+        "instrucciones": 30,
+        "salida": "popcount = 0\nNumber of instructions: 30\n",
+        "stderr": ""
+      },
+      "kernighan": {
+        "instrucciones": 160,
+        "salida": "popcount = 32\nNumber of instructions: 160\n",
+        "stderr": ""
+      }
+    },
+    {
+      "x": "0x12345678",
+      "sw": {
+        "instrucciones": 148,
+        "salida": "popcount = 13\nNumber of instructions: 148\n",
+        "stderr": ""
+      },
+      "hw": {
+        "instrucciones": 32,
+        "salida": "popcount = 13\nNumber of instructions: 32\n",
+        "stderr": ""
+      },
+      "stub": {
+        "instrucciones": 30,
+        "salida": "popcount = 0\nNumber of instructions: 30\n",
+        "stderr": ""
+      },
+      "kernighan": {
+        "instrucciones": 84,
+        "salida": "popcount = 13\nNumber of instructions: 84\n",
+        "stderr": ""
+      }
+    }
+  ],
+  "b_main": {
+    "sw": {
+      "instrucciones": 8899,
+      "salida": "Palabras procesadas: 64\nBits en 1 (total): 1061\nXOR de las palabras: 0x35F8F300\nNumber of instructions: 8899\n",
+      "stderr": ""
+    },
+    "hw": {
+      "instrucciones": 927,
+      "salida": "Palabras procesadas: 64\nBits en 1 (total): 1061\nXOR de las palabras: 0x35F8F300\nNumber of instructions: 927\n",
+      "stderr": ""
+    },
+    "stub": {
+      "instrucciones": 799,
+      "salida": "Palabras procesadas: 64\nBits en 1 (total): 0\nXOR de las palabras: 0x35F8F300\nNumber of instructions: 799\n",
+      "stderr": ""
+    },
+    "kernighan": {
+      "instrucciones": 5171,
+      "salida": "Palabras procesadas: 64\nBits en 1 (total): 1061\nXOR de las palabras: 0x35F8F300\nNumber of instructions: 5171\n",
+      "stderr": ""
+    }
+  },
+  "c": {
+    "fib": {
+      "naive": {
+        "instrucciones": 4238580,
+        "salida": "fib(0) = 0 [OK]\nfib(1) = 1 [OK]\nfib(2) = 1 [OK]\nfib(10) = 55 [OK]\nfib(20) = 6765 [OK]\nfib(25) = 75025 [OK]\nConvencion de registros: OK\nNumber of instructions: 4238580\n",
+        "stderr": "",
+        "syscalls": {
+          "memo_clear": 1
+        }
+      },
+      "memo": {
+        "instrucciones": 1933,
+        "salida": "fib(0) = 0 [OK]\nfib(1) = 1 [OK]\nfib(2) = 1 [OK]\nfib(10) = 55 [OK]\nfib(20) = 6765 [OK]\nfib(25) = 75025 [OK]\nConvencion de registros: OK\nNumber of instructions: 1933\n",
+        "stderr": "",
+        "syscalls": {
+          "memo_clear": 1,
+          "memo_get": 49,
+          "memo_put": 24
+        }
+      }
+    },
+    "collatz": {
+      "naive": {
+        "instrucciones": 510756,
+        "salida": "collatz_len(1) = 0 [OK]\ncollatz_len(2) = 1 [OK]\ncollatz_len(3) = 7 [OK]\ncollatz_len(7) = 16 [OK]\ncollatz_len(27) = 111 [OK]\ncollatz_len(97) = 118 [OK]\ncollatz_len(871) = 178 [OK]\nConvencion de registros: OK\nMayor cadena con n < 1000: n = 871  pasos = 178\nNumber of instructions: 510756\n",
+        "stderr": "",
+        "syscalls": {
+          "memo_clear": 1
+        }
+      },
+      "memo": {
+        "instrucciones": 81871,
+        "salida": "collatz_len(1) = 0 [OK]\ncollatz_len(2) = 1 [OK]\ncollatz_len(3) = 7 [OK]\ncollatz_len(7) = 16 [OK]\ncollatz_len(27) = 111 [OK]\ncollatz_len(97) = 118 [OK]\ncollatz_len(871) = 178 [OK]\nConvencion de registros: OK\nMayor cadena con n < 1000: n = 871  pasos = 178\nNumber of instructions: 81871\n",
+        "stderr": "",
+        "syscalls": {
+          "memo_clear": 1,
+          "memo_get": 3230,
+          "memo_put": 2227
+        }
+      }
+    }
+  },
+  "opcional": {
+    "b_test_kernighan": {
+      "instrucciones": 2412,
+      "salida": "popcount(0x00000000) = 0 [OK]\npopcount(0x00000001) = 1 [OK]\npopcount(0x0000FFFF) = 16 [OK]\npopcount(0x80000000) = 1 [OK]\npopcount(0xAAAAAAAA) = 16 [OK]\npopcount(0xFFFFFFFF) = 32 [OK]\npopcount(0x7FFFFFFF) = 31 [OK]\npopcount(0x12345678) = 13 [OK]\nConvencion de registros: OK\nNumber of instructions: 2412\n",
+      "stderr": ""
+    }
+  }
+}

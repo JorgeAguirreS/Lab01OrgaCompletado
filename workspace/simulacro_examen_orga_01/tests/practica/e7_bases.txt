@@ -1,0 +1,7 @@
+ways(0) = 1 [OK]
+ways(1) = 1 [OK]
+ways(2) = 1 [OK]
+ways(3) = 2 [OK]
+ways(4) = 3 [OK]
+ways(6) = 6 [OK]
+Convencion de registros: OK

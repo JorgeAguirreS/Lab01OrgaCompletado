@@ -1,0 +1,166 @@
+﻿[
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\build.ps1",
+        "Hash":  "3510941DEF8F5E0E12B34894CEAF67410BF63CC333AD3BD14795C2B93F1BE5D9"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\check.ps1",
+        "Hash":  "F634BD074EC989490DC0407D2BC0D5BC27FBE40A73404E5E3D05DB69F40D0248"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\check.sh",
+        "Hash":  "09E40CB8BFE553BF63A0ED0A9C8E6A919374A9726E2899C19085743B8D06EC3A"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\EasyMIPS.exe",
+        "Hash":  "B9B79585B83AAF4909F21700D6400CF0E9A548F5DE0F127EB48BF126EB804C9D"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\Makefile",
+        "Hash":  "C4F797F55D5C45B6DBE6BF58E001AE44420203E734897A2CC1518A8F50429BC7"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\mediciones_lab01.json",
+        "Hash":  "5E279C7D2439C509DF8FEF85A393A8E11E553F8A21D150024C56B10EF7BD4081"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\respuestas_lab01.md",
+        "Hash":  "F48377595910F5AE14C59B63BDF48F5ECDEE995933B9AE92B8D645F4E641D22B"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\crt.asm",
+        "Hash":  "FF4990DD3749FF870E3E2828FE6F4C2FBCE66E6E50C7F2928F7B8558587A96C3"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\testlib.asm",
+        "Hash":  "7016886C51A8B70D4F1794B6DD3B324438F736A0C819E90D4DF7BCCB7F6F0798"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_a\\a_div0.asm",
+        "Hash":  "BD226363EBF508D31F061A0E38EC9B33E4D849E9D1859977F6187E0E5C63DB87"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_a\\a_main.asm",
+        "Hash":  "FFAEB2F84C9A895823E538556F6BE1A6CFA9A2FE77F31A74F65143414F23E783"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_a\\a_ovf.asm",
+        "Hash":  "29D223AEEE83E3CDF134C196EB251382AB794B1F9298054FB1E8CB077718919C"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_a\\parte_a.asm",
+        "Hash":  "579F603F2B70B5898CB548BDC7F65D5DEC79500D51CA59429174EC85AB3FB864"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_b\\b_main.asm",
+        "Hash":  "B29E5E239363536BD48CC09CDD87A9A3D899234012B58F1E7004ABE85BA92C94"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_b\\b_one.asm",
+        "Hash":  "C27E27E5A821E830BFAC60ECD89F4029AE460F4F01F35E7A3FCAA591CFA51E2C"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_b\\b_test.asm",
+        "Hash":  "862ABB27FECC59AD386A750D478A870AB4F235A438DE82B1DB9157ECD0FFDA0A"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_b\\popcount_hw.asm",
+        "Hash":  "4E8B00A126F97F2D1B8F04960F0F8CD3E94C5ED9B4CEC42E4D8BC03AE54AFAF6"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_b\\popcount_kernighan.asm",
+        "Hash":  "789CAF7F5399BEAAA68FC5AF688D3446F6F3929B621473BC1EDAB94426F1B517"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_b\\popcount_stub.asm",
+        "Hash":  "5B77423F5E897517DD2561427445F71EC09A93BE76F9E73B66F6C0D18F700B32"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_b\\popcount_sw.asm",
+        "Hash":  "26F80DC7BCC8EF618F0F1AA7109D6E6284782949E9585F38912AAD0459B03A60"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_c\\collatz_memo.asm",
+        "Hash":  "13D1F62A9BC675008195A2ACB8ECCF2BD773BBF2DA0CDB77CAED93B4D6B3041C"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_c\\collatz_naive.asm",
+        "Hash":  "3C38AA8104B0D7A37902E5BECF82355F9D6CC74D5E9E788373BAAD17CF99BF37"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_c\\c_collatz_main.asm",
+        "Hash":  "1396D258C8A14E0C35C5E897D18248E41F0D4FD82EB6AA2E0A9134376DDDDFCE"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_c\\c_fib_big.asm",
+        "Hash":  "7609E56853DA784D1F1B6BABA4F3A0108E1E38D08AFD2A8F6FFD3D0A9F2EB01A"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_c\\c_fib_main.asm",
+        "Hash":  "D90CF6C990AE04427D0C16BED45E1856723D2ED20F18E45BD6F3BFDD4384EA6A"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_c\\c_memo.asm",
+        "Hash":  "485D9DEB5FFA6641C9F0334034EBDA9E60BE368AEB19928A37487A3D2B316817"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_c\\fib_memo.asm",
+        "Hash":  "A6E30D384A2FCE239B90ECBA2CEA677C2CD0D1DD39555DB17CF6E1A59A2B9FA4"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\asm\\parte_c\\fib_naive.asm",
+        "Hash":  "E9864A85CE032B8720473B275CFB3782D1EFBA0C94C75BEDE23E1FFF7831C4A6"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\include\\easm.h",
+        "Hash":  "39AA7D7259B9C745D5A57A0BB5FAC7297397FC8717E12D8086521A4FCD05F33A"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\plugin\\lab01_plugin.cpp",
+        "Hash":  "71203083865E6C71C71E389906144586E8A9F41DADC2B9B489A190BBBA3EF0CC"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\plugin\\lab01_plugin.dll",
+        "Hash":  "35CBE021FDF93D2CF46A372735282423E2A55FC0DEDAD0BF2AED9D3CEDE67E5F"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\tests\\tests.txt",
+        "Hash":  "CA3E1CA5B0F1920F5632AB423682EE17DD04239CAB68214469536C2E54B49D40"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\tests\\expected\\a_div0.txt",
+        "Hash":  "9DBFBB175D9B7B0B374027D902702A8097277E605D91B47CE6DBB2D18DF60104"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\tests\\expected\\a_main.txt",
+        "Hash":  "E66A65FE9D3E5820CF66D9990005EAF734E891A2070DCCDFF94A5169184EA913"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\tests\\expected\\a_ovf.txt",
+        "Hash":  "9DBFBB175D9B7B0B374027D902702A8097277E605D91B47CE6DBB2D18DF60104"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\tests\\expected\\b_main.txt",
+        "Hash":  "ACA4335E981F101055D9F78657B27717AC4A1C8620E9680CFD098F2FE0031286"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\tests\\expected\\b_test.txt",
+        "Hash":  "63A84E621286CA86D6C9FE014F7F81BE6E0DBD910921DA71E9B4495FFCE51D79"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\tests\\expected\\c_collatz.txt",
+        "Hash":  "660E946357B6946783234130E75945C2184351312DE149E663CD11EE8D881202"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\tests\\expected\\c_fib.txt",
+        "Hash":  "28F395EAAC4BEFB643A75E1236E51EBBB1CBEC1CE528A7F93D6074954FF49659"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\tests\\expected\\c_fib_big.txt",
+        "Hash":  "61D51D204EDBE9FF2455190BC81531185580311F476B192313F410CE04C229BB"
+    },
+    {
+        "Path":  "C:\\Users\\Jorge Aguirre\\Desktop\\Lab01_The_Hardware-Student\\workspace\\tests\\expected\\c_memo.txt",
+        "Hash":  "17CA6178729B05D5ED5670CADFEE6CCAFB9FA0B4C3E0A32EAE3246DF28CF7B81"
+    }
+]

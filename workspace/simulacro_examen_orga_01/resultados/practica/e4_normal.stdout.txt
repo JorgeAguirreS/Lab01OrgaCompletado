@@ -1,0 +1,5 @@
+decimal_stats(5) = 0 v1=0 [FALLA: esperado 1 v1=5]
+decimal_stats(12345) = 0 v1=0 [FALLA: esperado 5 v1=5]
+decimal_stats(908) = 0 v1=0 [FALLA: esperado 3 v1=9]
+Convencion de registros: OK
+Number of instructions: 670

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Separacion de campos binarios",
+    "puntos": 10,
+    "archivo": "plugin/ejercicios.cpp"
+  },
+  {
+    "id": 2,
+    "nombre": "Envoltorio word_info",
+    "puntos": 8,
+    "archivo": "asm/ej02_word_info.asm"
+  },
+  {
+    "id": 3,
+    "nombre": "Distancia de Hamming",
+    "puntos": 12,
+    "archivo": "asm/ej03_hamming.asm"
+  },
+  {
+    "id": 4,
+    "nombre": "Estadisticas decimales",
+    "puntos": 15,
+    "archivo": "asm/ej04_decimal_stats.asm"
+  },
+  {
+    "id": 5,
+    "nombre": "Consulta con retiro de memoria",
+    "puntos": 15,
+    "archivo": "plugin/ejercicios.cpp"
+  },
+  {
+    "id": 6,
+    "nombre": "Potencia recursiva de 32 bits",
+    "puntos": 15,
+    "archivo": "asm/ej06_power.asm"
+  },
+  {
+    "id": 7,
+    "nombre": "Recorridos con memoizacion",
+    "puntos": 25,
+    "archivo": "asm/ej07_ways.asm"
+  }
+]

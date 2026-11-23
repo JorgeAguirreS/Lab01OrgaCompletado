@@ -1,0 +1,7 @@
+decimal_stats(987654321) = 9 v1=9 [OK]
+decimal_stats(0) = 1 v1=0 [OK]
+decimal_stats(1) = 1 v1=1 [OK]
+decimal_stats(10) = 2 v1=1 [OK]
+decimal_stats(100000001) = 9 v1=1 [OK]
+decimal_stats(7) = 1 v1=7 [OK]
+Convencion de registros: OK

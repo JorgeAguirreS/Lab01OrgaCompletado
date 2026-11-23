@@ -1,0 +1,4 @@
+decimal_stats(5) = 1 v1=5 [OK]
+decimal_stats(12345) = 5 v1=5 [OK]
+decimal_stats(908) = 3 v1=9 [OK]
+Convencion de registros: OK

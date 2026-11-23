@@ -1,0 +1,6 @@
+power_u32(0x00000005, 9) = 0x001DCD65 [OK]
+power_u32(0x00000001, 31) = 0x00000001 [OK]
+power_u32(0x00000000, 0) = 0x00000001 [OK]
+power_u32(0x00000002, 2) = 0x00000004 [OK]
+power_u32(0x80000001, 2) = 0x00000001 [OK]
+Convencion de registros: OK

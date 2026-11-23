@@ -1,0 +1,5 @@
+ways(8) = 0 [FALLA: esperado 13]
+ways(8) = 0 [FALLA: esperado 13]
+memo_get(8) = 0 v1=0 [FALLA: esperado 13 v1=1]
+Convencion de registros: OK
+Number of instructions: 614

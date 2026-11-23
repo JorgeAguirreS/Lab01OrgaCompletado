@@ -1,0 +1,18 @@
+# Lista de pruebas del Lab 01.  Campos separados por "|":
+#   id | archivos .asm (en orden, relativos a asm/; crt.asm se agrega solo) | salida esperada
+#      | codigo de salida esperado | minimo de instrucciones | maximo de instrucciones
+# "-" = sin limite. Los limites de instrucciones comprueban que usted USO (o NO uso) la
+# syscall / la memoizacion; no son un concurso de velocidad.
+a_main|testlib.asm parte_a/a_main.asm parte_a/parte_a.asm|a_main.txt|0|-|-
+a_div0|parte_a/a_div0.asm parte_a/parte_a.asm|a_div0.txt|2|-|-
+a_ovf|parte_a/a_ovf.asm parte_a/parte_a.asm|a_ovf.txt|2|-|-
+b_test_sw|testlib.asm parte_b/b_test.asm parte_b/popcount_sw.asm|b_test.txt|0|-|-
+b_test_hw|testlib.asm parte_b/b_test.asm parte_b/popcount_hw.asm|b_test.txt|0|-|-
+b_main_sw|testlib.asm parte_b/b_main.asm parte_b/popcount_sw.asm|b_main.txt|0|4000|-
+b_main_hw|testlib.asm parte_b/b_main.asm parte_b/popcount_hw.asm|b_main.txt|0|-|3000
+c_memo|testlib.asm parte_c/c_memo.asm|c_memo.txt|0|-|-
+c_fib_naive|testlib.asm parte_c/c_fib_main.asm parte_c/fib_naive.asm|c_fib.txt|0|-|-
+c_fib_memo|testlib.asm parte_c/c_fib_main.asm parte_c/fib_memo.asm|c_fib.txt|0|-|20000
+c_fib_big|testlib.asm parte_c/c_fib_big.asm parte_c/fib_memo.asm|c_fib_big.txt|0|-|30000
+c_collatz_naive|testlib.asm parte_c/c_collatz_main.asm parte_c/collatz_naive.asm|c_collatz.txt|0|-|-
+c_collatz_memo|testlib.asm parte_c/c_collatz_main.asm parte_c/collatz_memo.asm|c_collatz.txt|0|-|250000

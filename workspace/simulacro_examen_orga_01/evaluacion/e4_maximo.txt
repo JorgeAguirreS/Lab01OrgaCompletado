@@ -1,0 +1,4 @@
+decimal_stats(2147483647) = 10 v1=8 [OK]
+decimal_stats(1999999999) = 10 v1=9 [OK]
+decimal_stats(1000000000) = 10 v1=1 [OK]
+Convencion de registros: OK

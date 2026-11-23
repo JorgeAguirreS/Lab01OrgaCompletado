@@ -1,0 +1,5 @@
+device_split(0x80000001, 31) = 0x00000001 v1=0x00000001 [OK]
+device_split(0x7FFFFFFF, 31) = 0x7FFFFFFF v1=0x00000000 [OK]
+device_split(0xAAAAAAAA, 17) = 0x0000AAAA v1=0x00005555 [OK]
+device_split(0xFFFFFFFF, 0) = 0x00000000 v1=0xFFFFFFFF [OK]
+Convencion de registros: OK

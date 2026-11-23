@@ -1,0 +1,5 @@
+power_u32(0x00000002, 3) = 0x00000000 [FALLA: esperado 0x00000008]
+power_u32(0x00000003, 4) = 0x00000000 [FALLA: esperado 0x00000051]
+power_u32(0x00000005, 2) = 0x00000000 [FALLA: esperado 0x00000019]
+Convencion de registros: OK
+Number of instructions: 1495
